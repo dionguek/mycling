@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent" android:layout_height="wrap_content"
+    android:textAppearance="@android:style/TextAppearance.Material.Large"
+    android:textSize="22sp"
+    android:id="@+id/textView1"
+    android:minHeight="?attr/listPreferredItemHeight"
+    android:singleLine="false"
+    android:paddingLeft="6dp"
+    android:gravity="center_vertical">
+
+</TextView>
